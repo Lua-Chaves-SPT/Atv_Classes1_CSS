@@ -33,3 +33,9 @@
     color: #E4005A;
     font-size: 42px;
 }   
+
+@media screen and (max-width: 480px) {
+    .container{
+        background-color: lightblue;
+    }
+}
