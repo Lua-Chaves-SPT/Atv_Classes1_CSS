@@ -29,7 +29,7 @@
     color: royalblue;
 }
 
-.conteudo p{
+.conteudo :nth-child(4){
     color: #E4005A;
     font-size: 42px;
-}
+}   
